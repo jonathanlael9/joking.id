@@ -1,0 +1,365 @@
+.fi-rr-rewind-icon {
+  position: absolute;
+  top: calc(50% - 605px);
+  left: calc(50% + 93px);
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.carousel-child {
+  position: absolute;
+  top: 1.5px;
+  left: 0;
+  border-radius: 38px;
+  width: 1117px;
+  height: 429px;
+  object-fit: cover;
+}
+.carousel-item {
+  position: absolute;
+  top: 0;
+  left: 557.5px;
+  width: 560.5px;
+  height: 430.5px;
+}
+.image-2-icon {
+  position: absolute;
+  top: calc(50% + 76.25px);
+  left: 789px;
+  width: 111px;
+  height: 54px;
+  object-fit: cover;
+}
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  position: absolute;
+  top: calc(50% + 152.25px);
+  left: 717px;
+  width: 183px;
+  height: 40px;
+  object-fit: cover;
+}
+.image-4-icon,
+.image-5-icon {
+  top: calc(50% + 90.25px);
+  left: 936px;
+  width: 126px;
+}
+.image-5-icon {
+  top: calc(50% + 152.25px);
+  left: 926px;
+  width: 136px;
+}
+.rp-1000 {
+  position: absolute;
+  top: 104.5px;
+  left: 681px;
+  line-height: 172.29%;
+}
+.top-up-diamond {
+  margin: 0;
+}
+.mulai-dari {
+  margin: 0;
+  font-size: 26px;
+  line-height: 160.02%;
+}
+.top-up-diamond-container {
+  position: absolute;
+  top: 41.5px;
+  left: 614px;
+  font-size: var(--font-size-13xl);
+}
+.carousel {
+  position: absolute;
+  top: 161px;
+  left: 81px;
+  width: 1118px;
+  height: 430.5px;
+  font-size: 96px;
+  font-family: var(--font-inika);
+}
+.what-are-we {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 159.5px);
+  line-height: 172.29%;
+  white-space: pre-wrap;
+}
+.jokingid-merupakan-situs {
+  position: absolute;
+  top: 128px;
+  left: 365px;
+  font-size: var(--font-size-5xl);
+  line-height: 172.29%;
+  text-align: justify;
+  display: inline-block;
+  width: 620px;
+}
+.logo-tanpa-backg-1 {
+  position: absolute;
+  top: 114px;
+  left: 0;
+  width: 266.2px;
+  height: 266.2px;
+  object-fit: cover;
+}
+.what-are-we-parent {
+  position: absolute;
+  top: 653px;
+  left: calc(50% - 478px);
+  width: 985px;
+  height: 380.2px;
+}
+.contact-us,
+.our-services {
+  position: absolute;
+  top: 1183px;
+  left: calc(50% - 152px);
+  text-align: left;
+}
+.contact-us {
+  top: 1810px;
+  left: calc(50% - 131px);
+}
+.joki,
+.top-up {
+  position: absolute;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.joki {
+  top: 1548px;
+  left: calc(50% + 286px);
+}
+.top-up {
+  top: 1540px;
+  left: 278px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-100);
+  width: 231px;
+  height: 231px;
+}
+.vector-icon {
+  position: absolute;
+  top: calc(50% - 39.5px);
+  left: calc(50% - 48.5px);
+  width: 110px;
+  height: 80px;
+  object-fit: contain;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 1295px;
+  left: 842px;
+  width: 231px;
+  height: 231px;
+  cursor: pointer;
+}
+.image-1-icon {
+  position: absolute;
+  top: calc(50% - 59.5px);
+  left: calc(50% - 60.5px);
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+.rectangle-group {
+  position: absolute;
+  top: 1295px;
+  left: 218px;
+  width: 231px;
+  height: 231px;
+  cursor: pointer;
+}
+.jasa-untuk-menaikkan,
+.top-up-diamond1 {
+  position: absolute;
+  top: 1606px;
+  left: 95px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 477px;
+}
+.jasa-untuk-menaikkan {
+  left: 719px;
+}
+.home-page-child {
+  position: absolute;
+  top: 2165.5px;
+  left: calc(50% - 487.5px);
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 982px;
+  height: 1px;
+}
+.jokingid-all-right {
+  position: absolute;
+  top: 2195px;
+  left: calc(50% - 207px);
+  font-size: var(--font-size-5xl);
+  text-align: left;
+}
+.navbar-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+}
+.fi-rr-diamond-icon,
+.top-up2 {
+  position: absolute;
+  top: 0;
+  left: 34.18%;
+}
+.fi-rr-diamond-icon {
+  height: 100%;
+  width: 22.78%;
+  right: 77.22%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.top-up1 {
+  position: absolute;
+  height: 18%;
+  width: 6.17%;
+  top: 41%;
+  right: 20.39%;
+  bottom: 41%;
+  left: 73.44%;
+}
+.jokingid {
+  position: absolute;
+  top: 29%;
+  left: 4.61%;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.05em;
+  color: var(--color-gold-200);
+}
+.joki2 {
+  position: absolute;
+  top: 9.09%;
+  left: 51.67%;
+}
+.fi-rr-rewind-icon1 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 30px);
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.joki1,
+.login {
+  position: absolute;
+}
+.joki1 {
+  height: 22%;
+  width: 4.69%;
+  top: 39%;
+  right: 29.61%;
+  bottom: 39%;
+  left: 65.7%;
+}
+.login {
+  top: 41%;
+  left: 83.44%;
+  font-weight: 600;
+}
+.sign-up-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gold-100);
+}
+.sign-up1 {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 28px);
+  font-weight: 600;
+}
+.sign-up {
+  position: absolute;
+  height: 26%;
+  width: 6.25%;
+  top: 38%;
+  right: 5.16%;
+  bottom: 36%;
+  left: 88.59%;
+  color: var(--color-gray-100);
+}
+.group-inner {
+  position: absolute;
+  height: 100%;
+  width: 25.35%;
+  top: 0;
+  right: 74.65%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home,
+.vector-parent {
+  position: absolute;
+  top: 0;
+  left: 40.85%;
+}
+.vector-parent {
+  height: 18%;
+  width: 5.55%;
+  top: 41%;
+  right: 37.19%;
+  bottom: 41%;
+  left: 57.27%;
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 100px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.home-page-item {
+  position: absolute;
+  top: 1931px;
+  left: 572px;
+  width: 110.7px;
+  height: 83px;
+  object-fit: cover;
+}
+.home-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2282px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

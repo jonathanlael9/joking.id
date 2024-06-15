@@ -1,0 +1,458 @@
+.group-child56,
+.payment-child {
+  position: absolute;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.payment-child {
+  top: 236px;
+  left: calc(50% - 535px);
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+  width: 1070px;
+  height: 1557px;
+}
+.group-child56 {
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  width: 968px;
+  height: 106px;
+}
+.harap-simpan-bukti {
+  position: absolute;
+  top: calc(50% - 19px);
+  left: calc(50% - 351px);
+  font-weight: 600;
+}
+.group-child57,
+.rectangle-parent18 {
+  position: absolute;
+  width: 968px;
+  height: 106px;
+}
+.rectangle-parent18 {
+  top: 399px;
+  left: 156px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+}
+.group-child57 {
+  top: 0;
+  left: 0;
+  border-radius: 14px;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.harap-diibayar-sebelum,
+.may-2023-wib {
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 194px);
+  font-weight: 600;
+}
+.may-2023-wib {
+  top: 53px;
+  left: calc(50% - 215px);
+  color: #d10000;
+}
+.rectangle-parent19 {
+  position: absolute;
+  top: 266px;
+  left: 156px;
+  width: 968px;
+  height: 106px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+}
+.payment-item {
+  position: absolute;
+  top: 174px;
+  left: 145px;
+  border-radius: 7px;
+  background-color: var(--color-gold-100);
+  width: 95px;
+  height: 39px;
+}
+.print {
+  position: absolute;
+  top: 185px;
+  left: 184px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.pngtreeprinter-vector-icon-38 {
+  position: absolute;
+  top: 176px;
+  left: 147px;
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.data-produk-10,
+.nama-produk-joki,
+.nomor-transaksi-tp16854287902,
+.userid-serverid-65354214 {
+  position: absolute;
+  top: 570px;
+  left: 166px;
+  font-weight: 600;
+  white-space: pre-wrap;
+}
+.data-produk-10,
+.nama-produk-joki,
+.userid-serverid-65354214 {
+  top: 627px;
+}
+.data-produk-10,
+.userid-serverid-65354214 {
+  top: 684px;
+}
+.userid-serverid-65354214 {
+  top: 741px;
+}
+.bagaimana-cara-membayar,
+.status-pembayaran,
+.status-transaksi {
+  position: absolute;
+  top: 884px;
+  left: 166px;
+  font-weight: 600;
+}
+.bagaimana-cara-membayar,
+.status-transaksi {
+  top: 946px;
+}
+.bagaimana-cara-membayar {
+  top: 1553px;
+}
+.scanunduh-kode-qr-menggunakan {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-13xl);
+}
+.pastikan-nama-penerima-container,
+.scanunduh-kode-qr-container {
+  position: absolute;
+  top: 1596px;
+  left: 166px;
+  font-weight: 600;
+}
+.pastikan-nama-penerima-container {
+  top: 1634px;
+}
+.pembayaranmu-selesai,
+.tunggu-sistem-mendeteksi-container {
+  position: absolute;
+  top: 1672px;
+  left: 166px;
+  font-weight: 600;
+}
+.tunggu-sistem-mendeteksi-container {
+  top: 1710px;
+}
+.total-tagihan-sudah {
+  margin: 0;
+}
+.total-tagihan-sudah-container {
+  position: absolute;
+  top: 1015px;
+  left: 166px;
+  font-weight: 600;
+}
+.pembayaran {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.pembayaran-qris-ovodanashop-container {
+  position: absolute;
+  top: 798px;
+  left: 166px;
+  font-weight: 600;
+}
+.line-icon,
+.payment-child1,
+.payment-child2,
+.payment-inner {
+  position: absolute;
+  top: 613px;
+  left: 166px;
+  max-height: 100%;
+  width: 968px;
+}
+.line-icon,
+.payment-child1,
+.payment-child2 {
+  top: 670px;
+}
+.payment-child1,
+.payment-child2 {
+  top: 727px;
+}
+.payment-child2 {
+  top: 784px;
+}
+.payment-child3,
+.payment-child5,
+.payment-child6,
+.payment-child7 {
+  position: absolute;
+  top: 870px;
+  left: 166px;
+  max-height: 100%;
+  width: 968px;
+}
+.payment-child5,
+.payment-child6,
+.payment-child7 {
+  top: 932px;
+}
+.payment-child6,
+.payment-child7 {
+  top: 994px;
+}
+.payment-child7 {
+  top: 1082px;
+}
+.group-child58 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: #e43030;
+  width: 152px;
+  height: 34px;
+}
+.belum-bayar {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 50px);
+  font-weight: 900;
+}
+.belum-proses,
+.rectangle-parent20 {
+  position: absolute;
+  font-size: var(--font-size-base);
+}
+.rectangle-parent20 {
+  top: 884px;
+  left: 526px;
+  width: 152px;
+  height: 34px;
+  color: var(--color-white);
+}
+.belum-proses {
+  top: 953px;
+  left: 540px;
+  font-weight: 900;
+}
+.group-child59 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: #ffc700;
+  width: 152px;
+  height: 34px;
+}
+.belum-proses1 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 55px);
+  font-weight: 900;
+}
+.rectangle-parent21 {
+  position: absolute;
+  top: 946px;
+  left: 526px;
+  width: 152px;
+  height: 34px;
+  font-size: var(--font-size-base);
+}
+.navbar-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1280px;
+  height: 100px;
+}
+.fi-rr-diamond-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.top-up-parent {
+  position: absolute;
+  top: 41px;
+  left: 830px;
+  width: 79px;
+  height: 18px;
+}
+.jokingid5 {
+  position: absolute;
+  top: 29px;
+  left: 65px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.05em;
+  color: var(--color-gold-200);
+}
+.joki12,
+.vector-icon1 {
+  position: absolute;
+  top: 2.7px;
+  left: 29px;
+}
+.vector-icon1 {
+  height: 81.16%;
+  width: 37.93%;
+  top: 0;
+  right: 62.07%;
+  bottom: 18.84%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.group-child60,
+.joki-parent {
+  position: absolute;
+  top: 38.3px;
+  left: 733px;
+  width: 58px;
+  height: 20.7px;
+}
+.group-child60 {
+  top: 0;
+  left: 0;
+  width: 18px;
+  height: 18px;
+}
+.about,
+.i3 {
+  position: absolute;
+  top: 0;
+  left: 27px;
+}
+.i3 {
+  left: 7px;
+}
+.group-parent,
+.login8 {
+  position: absolute;
+  top: 41px;
+}
+.group-parent {
+  left: 948px;
+  width: 70px;
+  height: 18px;
+}
+.login8 {
+  left: 1068px;
+  font-weight: 600;
+}
+.group-child61,
+.navbar-inner1 {
+  position: absolute;
+  width: 80px;
+  height: 26px;
+}
+.group-child61 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gold-100);
+}
+.navbar-inner1 {
+  top: 38px;
+  left: 1134px;
+}
+.home5 {
+  position: absolute;
+  top: 0;
+  left: 29px;
+}
+.navbar5,
+.vector-parent3 {
+  position: absolute;
+  top: 41px;
+  left: 623px;
+  width: 71px;
+  height: 18px;
+}
+.navbar5 {
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 100px;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.rp10000,
+.sign-up13 {
+  position: absolute;
+  font-weight: 600;
+}
+.sign-up13 {
+  top: calc(50% - 952.5px);
+  left: calc(50% + 505px);
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-100);
+}
+.rp10000 {
+  top: 1029px;
+  left: 526px;
+}
+.pngwing-1-icon {
+  top: 1015px;
+  left: 642px;
+  width: 23px;
+  height: 23px;
+}
+.icon,
+.pngwing-1-icon,
+.pngwing-2-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.pngwing-2-icon {
+  top: 555px;
+  left: 822px;
+  width: 23px;
+  height: 23px;
+}
+.icon {
+  top: 1186px;
+  left: calc(50% - 156px);
+  width: 313px;
+  height: 313px;
+}
+.payment-child8 {
+  position: absolute;
+  top: 1877.5px;
+  left: calc(50% - 505.5px);
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 982px;
+  height: 1px;
+}
+.jokingid-all-right5 {
+  position: absolute;
+  top: 1907px;
+  left: calc(50% - 225px);
+}
+.payment {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1989px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

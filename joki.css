@@ -1,0 +1,712 @@
+.fi-rr-rewind-icon6 {
+  position: absolute;
+  top: calc(50% - 1424.5px);
+  left: calc(50% + 91px);
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.joki-child {
+  position: absolute;
+  top: 4180.5px;
+  left: calc(50% - 491.5px);
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 982px;
+  height: 1px;
+}
+.jokingid-all-right4 {
+  position: absolute;
+  top: 4210px;
+  left: calc(50% - 211px);
+  color: var(--color-black);
+}
+.player-id-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-gray-100);
+  width: 915px;
+  height: 489px;
+}
+.lengkapi-data1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-24xl);
+}
+.lengkapi-data,
+.password {
+  position: absolute;
+  font-weight: 600;
+}
+.lengkapi-data {
+  top: 19px;
+  left: 53px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gold-100);
+}
+.password {
+  top: 0;
+  left: 0;
+}
+.group-child23 {
+  position: absolute;
+  top: 24px;
+  left: 1px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 373px;
+  height: 39px;
+}
+.fi-rs-eye-icon1 {
+  position: absolute;
+  top: 30px;
+  left: 331px;
+  width: 27px;
+  height: 27px;
+  overflow: hidden;
+}
+.password-parent {
+  position: absolute;
+  top: 88px;
+  left: 478px;
+  width: 374px;
+  height: 63px;
+  color: var(--color-white);
+}
+.group-child24 {
+  position: absolute;
+  top: 24px;
+  left: 1px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 372px;
+  height: 39px;
+}
+.rectangle-parent9 {
+  position: absolute;
+  top: 88px;
+  left: 54px;
+  width: 373px;
+  height: 63px;
+  color: var(--color-white);
+}
+.group-child25 {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 372px;
+  height: 39px;
+}
+.masukkan-nickname,
+.nickname {
+  position: absolute;
+  top: 30px;
+  left: 12px;
+}
+.nickname {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.group-child26,
+.rectangle-parent10 {
+  position: absolute;
+  top: 177px;
+  left: 480px;
+  width: 372px;
+  height: 63px;
+}
+.group-child26 {
+  top: 24px;
+  left: 2px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  height: 39px;
+}
+.group-child27 {
+  position: absolute;
+  top: 39px;
+  left: 344px;
+  width: 15px;
+  height: 9.5px;
+}
+.moonton {
+  position: absolute;
+  top: 32px;
+  left: 19px;
+}
+.rectangle-parent11 {
+  position: absolute;
+  top: 177px;
+  left: 53px;
+  width: 374px;
+  height: 63px;
+  color: var(--color-black);
+}
+.masukkan-email {
+  position: absolute;
+  top: 121px;
+  left: 81px;
+}
+.masukkan-password,
+.player-id1 {
+  position: absolute;
+  top: 121px;
+  left: 490px;
+}
+.player-id1 {
+  top: 189px;
+  left: 183px;
+  width: 915px;
+  height: 489px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+}
+.harap-perhatikan-sebelum-menjo {
+  margin: 0;
+}
+.jika-login-tanpa-izin-proses {
+  margin-bottom: 0;
+}
+.matikan-verifikasi-akun-untuk {
+  margin: 0;
+  font-size: var(--font-size-xl);
+  padding-left: 27px;
+}
+.harap-perhatikan-sebelum-container {
+  position: absolute;
+  top: 485px;
+  left: 238px;
+  line-height: 30px;
+  display: inline-block;
+  width: 799px;
+  font-size: var(--font-size-3xl);
+}
+.pilih-nominal-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-gray-100);
+  width: 915px;
+  height: 1867px;
+}
+.pilih-nominal2 {
+  position: absolute;
+  top: 28px;
+  left: 70px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--color-gold-100);
+  text-align: left;
+  display: inline-block;
+  width: 370px;
+  height: 34px;
+}
+.image-1-icon10 {
+  position: absolute;
+  top: 33px;
+  left: 62px;
+  width: 67px;
+  height: 67px;
+  object-fit: cover;
+}
+.master-3-bintang-container,
+.rp-100014 {
+  position: absolute;
+  top: 108px;
+  left: 53px;
+}
+.rp-100014 {
+  top: 164px;
+  left: 52px;
+  font-weight: 600;
+}
+.group-child28,
+.image-1-parent7 {
+  position: absolute;
+  width: 190px;
+  height: 200px;
+}
+.group-child28 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+}
+.image-1-parent7 {
+  top: 108px;
+  left: 107px;
+}
+.grand-master-3-container {
+  position: absolute;
+  top: 108px;
+  left: 33px;
+}
+.image-1-parent10,
+.image-1-parent11,
+.image-1-parent8,
+.image-1-parent9 {
+  position: absolute;
+  top: 345px;
+  left: 107px;
+  width: 190px;
+  height: 200px;
+}
+.image-1-parent10,
+.image-1-parent11,
+.image-1-parent9 {
+  top: 582px;
+}
+.image-1-parent10,
+.image-1-parent11 {
+  top: 819px;
+}
+.image-1-parent11 {
+  top: 1056px;
+  left: 108px;
+}
+.mythic-honor-3-container {
+  position: absolute;
+  top: 108px;
+  left: 34px;
+}
+.image-1-parent12 {
+  position: absolute;
+  top: 1293px;
+  left: 108px;
+  width: 190px;
+  height: 200px;
+}
+.mythic-glory-3-container {
+  position: absolute;
+  top: 108px;
+  left: 38px;
+}
+.image-1-parent13 {
+  position: absolute;
+  top: 1530px;
+  left: 108px;
+  width: 190px;
+  height: 200px;
+}
+.image-1-parent14,
+.image-1-parent15,
+.image-1-parent16 {
+  position: absolute;
+  top: 1530px;
+  left: 362px;
+  width: 190px;
+  height: 200px;
+}
+.image-1-parent15,
+.image-1-parent16 {
+  left: 617px;
+}
+.image-1-parent16 {
+  top: 1293px;
+  left: 362px;
+}
+.image-1-parent17,
+.image-1-parent18,
+.image-1-parent19 {
+  position: absolute;
+  top: 1293px;
+  left: 616px;
+  width: 190px;
+  height: 200px;
+}
+.image-1-parent18,
+.image-1-parent19 {
+  top: 1056px;
+  left: 362px;
+}
+.image-1-parent19 {
+  left: 616px;
+}
+.image-1-parent20,
+.image-1-parent21,
+.image-1-parent22 {
+  position: absolute;
+  top: 819px;
+  left: 366px;
+  width: 190px;
+  height: 200px;
+}
+.image-1-parent21,
+.image-1-parent22 {
+  left: 617px;
+}
+.image-1-parent22 {
+  top: 582px;
+  left: 362px;
+}
+.image-1-parent23,
+.image-1-parent24,
+.image-1-parent25 {
+  position: absolute;
+  top: 582px;
+  left: 617px;
+  width: 190px;
+  height: 200px;
+}
+.image-1-parent24,
+.image-1-parent25 {
+  top: 345px;
+  left: 362px;
+}
+.image-1-parent25 {
+  left: 617px;
+}
+.image-1-parent26,
+.image-1-parent27,
+.pilih-nominal1 {
+  position: absolute;
+  top: 108px;
+  left: 362px;
+  width: 190px;
+  height: 200px;
+}
+.image-1-parent27,
+.pilih-nominal1 {
+  left: 617px;
+}
+.pilih-nominal1 {
+  top: 745px;
+  left: 183px;
+  width: 915px;
+  height: 1867px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+}
+.no-wa-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-gray-100);
+  width: 915px;
+  height: 224px;
+}
+.nomor-whatsapp {
+  position: absolute;
+  top: 38px;
+  left: 45px;
+  font-weight: 600;
+  display: inline-block;
+  width: 332px;
+  height: 34px;
+}
+.group-child49 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 768px;
+  height: 39px;
+}
+.masukkan-nomor {
+  position: absolute;
+  top: 8px;
+  left: 35px;
+  font-weight: 600;
+}
+.no-wa,
+.rectangle-parent12 {
+  position: absolute;
+  top: 112px;
+  left: 45px;
+  width: 768px;
+  height: 39px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+}
+.no-wa {
+  top: 3648px;
+  left: 186px;
+  width: 915px;
+  height: 224px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gold-100);
+}
+.pilih-pembayaran-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-gray-100);
+  width: 915px;
+  height: 889px;
+}
+.pilih-pembayaran4 {
+  position: absolute;
+  top: 38px;
+  left: 45px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--color-gold-100);
+  display: inline-block;
+  width: 318px;
+  height: 34px;
+}
+.group-child50 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xl);
+  background-color: var(--color-gold-100);
+  width: 807px;
+  height: 153px;
+}
+.image-2-icon2 {
+  position: absolute;
+  top: calc(50% - 33.5px);
+  left: 42px;
+  width: 320px;
+  height: 67px;
+  object-fit: cover;
+}
+.rp-100035 {
+  position: absolute;
+  top: 54px;
+  left: 635px;
+  font-weight: 600;
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: 122px;
+  left: 58px;
+  width: 807px;
+  height: 153px;
+}
+.image-3-icon2 {
+  position: absolute;
+  top: calc(50% - 19.5px);
+  left: 50px;
+  width: 183px;
+  height: 40px;
+  object-fit: cover;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 304px;
+  left: 58px;
+  width: 807px;
+  height: 153px;
+}
+.image-4-icon2 {
+  position: absolute;
+  top: calc(50% - 19.5px);
+  left: 50px;
+  width: 126px;
+  height: 40px;
+  object-fit: cover;
+}
+.rectangle-parent15 {
+  position: absolute;
+  top: 486px;
+  left: 58px;
+  width: 807px;
+  height: 153px;
+}
+.image-5-icon2 {
+  position: absolute;
+  top: calc(50% - 19.5px);
+  left: 50px;
+  width: 136px;
+  height: 40px;
+  object-fit: cover;
+}
+.rectangle-parent16 {
+  position: absolute;
+  top: 668px;
+  left: 58px;
+  width: 807px;
+  height: 153px;
+}
+.pilih-pembayaran3 {
+  position: absolute;
+  top: 2685px;
+  left: 182px;
+  width: 915px;
+  height: 889px;
+  color: var(--color-black);
+}
+.group-child54 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 164.5px);
+  border-radius: var(--br-7xl);
+  background-color: var(--color-gold-100);
+  width: 329px;
+  height: 88px;
+}
+.order-sekarang {
+  position: absolute;
+  top: calc(50% - 20px);
+  left: calc(50% - 122.5px);
+}
+.rectangle-parent17 {
+  position: absolute;
+  top: 3919px;
+  left: calc(50% - 164px);
+  width: 329px;
+  height: 88px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+}
+.navbar-child2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+}
+.fi-rr-diamond-icon4,
+.top-up11 {
+  position: absolute;
+  top: 0;
+  left: 34.18%;
+}
+.fi-rr-diamond-icon4 {
+  height: 100%;
+  width: 22.78%;
+  right: 77.22%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.top-up10 {
+  position: absolute;
+  height: 18%;
+  width: 6.17%;
+  top: 41%;
+  right: 20.39%;
+  bottom: 41%;
+  left: 73.44%;
+}
+.jokingid4 {
+  position: absolute;
+  top: 29%;
+  left: 4.61%;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gold-200);
+}
+.joki11 {
+  position: absolute;
+  top: 9.09%;
+  left: 51.67%;
+}
+.fi-rr-rewind-icon7 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 30px);
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.joki10,
+.login7 {
+  position: absolute;
+}
+.joki10 {
+  height: 22%;
+  width: 4.69%;
+  top: 39%;
+  right: 29.61%;
+  bottom: 39%;
+  left: 65.7%;
+}
+.login7 {
+  top: 41%;
+  left: 83.44%;
+  font-weight: 600;
+}
+.sign-up-child2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gold-100);
+}
+.sign-up12 {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 28px);
+  font-weight: 600;
+}
+.sign-up11 {
+  position: absolute;
+  height: 26%;
+  width: 6.25%;
+  top: 38%;
+  right: 5.16%;
+  bottom: 36%;
+  left: 88.59%;
+  color: var(--color-gray-100);
+}
+.group-child55 {
+  position: absolute;
+  height: 100%;
+  width: 25.35%;
+  top: 0;
+  right: 74.65%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home4,
+.vector-parent2 {
+  position: absolute;
+  top: 0;
+  left: 40.85%;
+}
+.vector-parent2 {
+  height: 18%;
+  width: 5.55%;
+  top: 41%;
+  right: 37.19%;
+  bottom: 41%;
+  left: 57.27%;
+}
+.navbar4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 100px;
+  font-size: var(--font-size-mini);
+}
+.joki9 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4313px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
